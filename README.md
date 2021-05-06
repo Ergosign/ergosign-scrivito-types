@@ -1,0 +1,1 @@
+# ergosign-scrivito-types
